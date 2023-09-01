@@ -6,3 +6,4 @@
 5-listfilesdigitonly - Display current directory contents.
 6-firstdirectory - Display current directory contents.
 7-movethatfile - Move the file betty from /tmp/ to /tmp/my_first_directory.
+8-firstdelete - Delete the file betty.

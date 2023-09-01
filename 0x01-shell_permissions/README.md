@@ -28,3 +28,4 @@
 12-directory_permissions -a script that creates a directory called my_dir with permissions 751 in the working directory.
 12-directory_permissions -a script that creates a directory called my_dir with permissions 751 in the working directory.
 12-directory_permissions -a script that creates a directory called my_dir with permissions 751 in the working directory.
+103-Star_Wars - script that will play the StarWars IV episode in the terminal.

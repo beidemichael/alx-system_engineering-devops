@@ -23,3 +23,4 @@
 5-execute - script that adds execute permission to the owner of the file hello.
 9-John_Doe - script that sets the mode of the file hello to this:
 11-directories_permissions - a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+11-directories_permissions - a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.

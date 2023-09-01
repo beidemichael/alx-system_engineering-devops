@@ -21,3 +21,4 @@
 12-directory_permissions -a script that creates a directory called my_dir with permissions 751 in the working directory.
 13-change_group - script that changes the group owner to school for the file hello
 5-execute - script that adds execute permission to the owner of the file hello.
+9-John_Doe - script that sets the mode of the file hello to this:

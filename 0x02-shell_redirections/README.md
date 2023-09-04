@@ -29,3 +29,4 @@
 1-confused_smiley - script that displays a confused smiley "(Ôo)'
 1-confused_smiley - script that displays a confused smiley "(Ôo)'
 9-duplicate_last_line - script that duplicates the last line of the file iacta
+100-empty_casks - command that finds all empty files and directories in the current directory and all sub-directories.

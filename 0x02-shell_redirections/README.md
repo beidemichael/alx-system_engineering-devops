@@ -28,3 +28,4 @@
 11-directories - a script that counts the number of directories and sub-directories in the current directory.
 1-confused_smiley - script that displays a confused smiley "(Ôo)'
 1-confused_smiley - script that displays a confused smiley "(Ôo)'
+9-duplicate_last_line - script that duplicates the last line of the file iacta

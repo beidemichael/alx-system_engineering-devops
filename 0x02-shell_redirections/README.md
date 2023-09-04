@@ -33,3 +33,4 @@
 101-gifs - script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 101-gifs - script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 102-acrostic - acrostic is a poem
+102-acrostic - acrostic is a poem

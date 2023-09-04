@@ -21,3 +21,4 @@
 22-users_and_homes - script that displays all users and their home directories, sorted by users.
 11-directories - a script that counts the number of directories and sub-directories in the current directory.
 6-third_line - script that displays the third line of the file iacta
+7-file - script that creates a file

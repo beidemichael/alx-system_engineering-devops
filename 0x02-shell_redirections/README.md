@@ -30,3 +30,4 @@
 1-confused_smiley - script that displays a confused smiley "(Ôo)'
 9-duplicate_last_line - script that duplicates the last line of the file iacta
 100-empty_casks - command that finds all empty files and directories in the current directory and all sub-directories.
+101-gifs - script that lists all the files with a .gif extension in the current directory and all its sub-directories.

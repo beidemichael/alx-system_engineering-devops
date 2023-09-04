@@ -26,3 +26,4 @@
 7-file - script that creates a file
 7-file - script that creates a file
 11-directories - a script that counts the number of directories and sub-directories in the current directory.
+1-confused_smiley - script that displays a confused smiley "(Ôo)'

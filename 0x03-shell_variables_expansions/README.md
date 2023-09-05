@@ -8,3 +8,4 @@
 5-local_variables - script that lists all local variables and environment variables, and functions.
 4-global_variables - script that lists environment variables.
 3-paths - Display the content of the /etc/passwd file.
+2-path - Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.

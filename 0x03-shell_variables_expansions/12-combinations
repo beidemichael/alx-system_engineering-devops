@@ -1,2 +1,2 @@
 #!/bin/bash
-eval echo {a..z}{a..z} | tr -d 'o' | fold -w 2
+eval echo {a..z}{a..z}"\n"  | tr -d 'o' 

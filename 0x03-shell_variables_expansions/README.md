@@ -7,3 +7,4 @@
 6-create_local_variable - a script that creates a new local variable.
 5-local_variables - script that lists all local variables and environment variables, and functions.
 4-global_variables - script that lists environment variables.
+3-paths - Display the content of the /etc/passwd file.

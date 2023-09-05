@@ -12,3 +12,4 @@
 1-hello_you - script that prints hello user, where user is the current Linux user.
 1-hello_you - script that prints hello user, where user is the current Linux user.
 0-alias - Create a script that creates an alias.
+5-local_variables - script that lists all local variables and environment variables, and functions.

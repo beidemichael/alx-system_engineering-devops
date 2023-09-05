@@ -18,3 +18,4 @@
 12-combinations - script that prints all possible combinations of two letters, except oo
 12-combinations - script that prints all possible combinations of two letters, except oo
 12-combinations - script that prints all possible combinations of two letters, except oo
+101-rot13 - script that encodes and decodes text using the rot13 encryption. Assume ASCII.

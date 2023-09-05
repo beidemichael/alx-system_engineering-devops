@@ -1,2 +1,2 @@
 #!/bin/bash
-set | cut -d= -f1
+set

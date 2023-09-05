@@ -16,3 +16,4 @@
 13-print_float - script that prints a number with two decimal places, followed by a new line.
 12-combinations - script that prints all possible combinations of two letters, except oo
 12-combinations - script that prints all possible combinations of two letters, except oo
+12-combinations - script that prints all possible combinations of two letters, except oo

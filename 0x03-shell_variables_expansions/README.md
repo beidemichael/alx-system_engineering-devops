@@ -15,3 +15,4 @@
 5-local_variables - script that lists all local variables and environment variables, and functions.
 13-print_float - script that prints a number with two decimal places, followed by a new line.
 12-combinations - script that prints all possible combinations of two letters, except oo
+12-combinations - script that prints all possible combinations of two letters, except oo
